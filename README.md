@@ -10,7 +10,7 @@ Hello! I am Martinus Sitinjak. I am Information Technology Students on Del Insti
 * 💻 I'm a web developer
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Information Technology student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](http://www.nicolasmanurung.tech/projects-grid-cards.html)
+//* 🌐 You can see some of my projects on [my portfolio](http://www.nicolasmanurung.tech/projects-grid-cards.html)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
