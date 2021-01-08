@@ -3,7 +3,7 @@ Hello! I am Martinus Sitinjak. I am Information Technology Students on Del Insti
 
 #### 🔭 I’m currently looking for new opportunities as Front-End Developer, Back-End Developer , Product Owner.
 
-![My Visitors](https://visitor-badge.glitch.me/badge?page_id=nick2905/nick2905)
+![My Visitors](https://visitor-badge.glitch.me/badge?page_id=Martinus123S/Martinus123S)
 
 ## 📖 About me
 
