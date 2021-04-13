@@ -6,15 +6,18 @@ Dan akan mendapatkan diskon jika melebihi promo yang ditentukan
 ![My Visitors](https://visitor-badge.glitch.me/badge?page_id=Martinus123S/Martinus123S)
 
 ### Requirement
+
 PHP >== 5.17
 
 ### Installation
+
 Clone project tersebut
 Lalu masukkan kedalam Xampp/htdocs
 Lalu Anda bisa menjalankan web tersebut
 
 ### Usage
-```
+
+````
 function durasi($tglCekIn, $tglCekOut)
 {
 	$date1 = date_create($tglCekIn);
@@ -26,3 +29,8 @@ function durasi($tglCekIn, $tglCekOut)
 }```
 Digunakan untuk Menghitung durasi dari tanggal yang dibuat user
 
+````
+
+## Contributing
+
+Project ini dibuka untuk pull request, silahkan ajuka issue jika menemukan hal tersebut
