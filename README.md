@@ -14,12 +14,15 @@ Lalu masukkan kedalam Xampp/htdocs
 Lalu Anda bisa menjalankan web tersebut
 
 ### Usage
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+function durasi($tglCekIn, $tglCekOut)
+{
+	$date1 = date_create($tglCekIn);
+	$date2 = date_create($tglCekOut);
+	$diff = date_diff($date1, $date2);
+	$durasi = $diff->format("%d%");
+
+	return $durasi;
+}```
 Digunakan untuk Menghitung durasi dari tanggal yang dibuat user
 
