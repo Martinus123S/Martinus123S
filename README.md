@@ -3,7 +3,7 @@
 Web ini digunakan untuk melakukan perhitungan dimana tagihan Awal di set sebanyak 500000
 Dan akan mendapatkan diskon jika melebihi promo yang ditentukan
 
-(https://visitor-badge.glitch.me/badge?page_id=Martinus123S/Martinus123S)
+![My Visitors](https://visitor-badge.glitch.me/badge?page_id=Martinus123S/Martinus123S)
 
 ### Requirement
 PHP >== 5.17
