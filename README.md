@@ -1,6 +1,6 @@
 # Martinus Yudha Chrisanto Sitinjak
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ![My Visitors](https://visitor-badge.glitch.me/badge?page_id=Martinus123S/Martinus123S)
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
 
