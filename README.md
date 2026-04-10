@@ -4,7 +4,7 @@
 
 
 
-Hello! I am Martinus Sitinjak. I am Information Technology Students on Del Institute of Technology. I have passion for web developer using PHP, Javascript languange. I have good experience for time management, teamwork.
+Hello! I am Martin Yudha C Sitinjak.  I have passion for web developer using PHP, Javascript languange. I have good experience for time management, teamwork.
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -14,6 +14,7 @@ Hello! I am Martinus Sitinjak. I am Information Technology Students on Del Insti
 ## 📖 About me
 
 * 💻 I'm a web developer
+* 💻 I'm a backend developer
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Information Technology student (graduating in October 2021)
 
